@@ -1239,6 +1239,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b34e6d7996f978e4a931f24a7fd9ebee, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  spinSpeed: 180
+  motionMagnitude: 2
+  doSpin: 1
+  doMotion: 0
 --- !u!65 &1612315465
 BoxCollider:
   m_ObjectHideFlags: 0
